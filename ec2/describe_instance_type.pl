@@ -7,7 +7,6 @@ use locale;
 use strict;
 use warnings;
 
-use DBI;
 use HTML::TreeBuilder::XPath;
 use Data::Dumper;
 
